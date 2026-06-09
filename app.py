@@ -8,7 +8,7 @@ app = Flask(__name__)
 # --- ส่วนที่คุณต้องเติมเอง ---
 GEMINI_API_KEY = "AQ.Ab8RN6K6oiBrcMYy4KDwDyMBITzZdlu9RV9ze9KRsS91WE2Dtg"
 PAGE_ACCESS_TOKEN = "EAAcUb1R7QGgBRvP1HlDJyQyxBGdm152HZAcySAH0I3slpkK9mwZBBLZALtNEkFSn6dzC7lc1zXVkjognEOZC3TtZAtgNk538RlA9BYEhPkFTM1dFTwAZCSHgiUhgnwoFPZARsbUYk4m3AMzhTUL6GdK3S2138ucZAtXWbcMUV7XqWLxYKsKlr0ytL7xVbZAtTLxFZAHg0s"
-VERIFY_TOKEN = "ตั้งรหัสอะไรก็ได้_เช่น_my_bot_123" # ใช้ตอนเชื่อม Facebook ครั้งแรก
+VERIFY_TOKEN = "Rattanathibet!01" # ใช้ตอนเชื่อม Facebook ครั้งแรก
 
 # ข้อมูลธุรกิจของคุณ (Knowledge Base)
 KNOWLEDGE_BASE = """
